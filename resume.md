@@ -1,56 +1,107 @@
-Markdown Resumé
-===============
+Glenn Jones
+===========
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+* Email: glenn@millenniumhand.co.uk
+* Phone: +447734605333
 
-Interests
----------
 
-*   Creating beautiful resumés from simple Markdown documents
+Key Skills
+----------
+*   **Process**
+    - Team leadership, time management, project planning, work scheduling
 
+*   **Languages**
+    - C#, Java, HTML, CSS, Javascript, Python
+
+*   **Design**
+    - System architecture, web services, object oriented design, database
+      design, object-relational mapping, test-driven development
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Developer** (London)
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *PythonAnywhere*, Aug 2004 - Present
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    - 
 
-*   **\LaTeX\ + pdflatex**
+*   **Developer** (Elstead)
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *Argogroup*, Aug 2004 - Present
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    - Developed ASP.NET application in C# for testing the capabilities of mobile
+      phones. The application presents phones with various types of content and
+      records how they respond. The resulting database of phone capabilities can
+      be queried for reporting and analysis and it is also used in the company's
+      phone emulation engine
+    - Developed ASP.NET web interface to the company's flagship product which
+      tests mobile phone services. This interface provides an administration
+      interface to the distributed testing system and is the user's primary
+      means of interacting with it. In order to provide a useful and useable
+      interface, I have also had to debug, fix and add new features to the Java
+      and C++ components of the software
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Developer** (London)
 
-    *Web Resumé Intern*, August 2010
+    *BBC*, Nov 2001 - July 2004
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    - Developed Word and XML based training course authoring system and
+      evaluated the usefulness of the system through user testing and feedback
+    - Developed a sharable XML/XSLT glossary system in ASP
+    - Redesigned the BBC Intranet homepage. This involved working closely with
+      the graphic designer to realize their vision in cross-browser HTML, CSS
+      and JavaScript
+    - Responded to user requests to extend and maintain the in-house learning
+      management system written in ASP
 
-*   **Markdown with Pandoc**
+*   **Developer** (London)
 
-    *Resumé Architect*, February 2011 - present
+    *Rubus*, Feb 2000 - Dec 2000
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    - Developed the company's knowledge management system. This encompassed
+      version control of all company documents, indexing, meta-tags and
+      full-text search
+    - Developed pilot knowledge management system for a large media client
+
+
+*   **Developer** (London)
+    *British Sky Broadcasting*, Dec 1999 - Feb 2000
+
+    - Designed and implemented the development infrastructure for the Sky
+      internet portal. This included evaluating, choosing and implementing
+      development environments and supporting infrastructure such as source code
+      control software
+    - Led the team re-writing the Java-based portal software
+
+*   **Lead Developer** (Cape Town)
+
+    *USKO*, Aug 1997 - Nov 1999
+
+    - Led a team building credit card processing software. Acted as interface
+      between the high level architecture team and the implementation team
+    - Developed a Java applet for charting and technical analysis of share
+      prices
+    - Developed a Java application for WYSIWYG HTML editing using XML and XSLT
+    - Developed a pilot WAP application to deliver share prices to WAP devices
+
+*   **Contractor** (Cape Town)
+
+    *Self employed*, Sept 1996 - Aug 1997
+
+    - Assisted a web start-up with infrastructure setup including networking and
+      mail and news servers
+    - Assisted with the development of an online web site creation application
+
+*   **Developer/System Administrator** (Cape Town)
+
+    *Internect*, Jan 1996 - Sept 1996
+
+    - Designed, built and supported the infrastructure for a small Linux-based
+      web publisher
+    - Created an online ordering application for a large stationery retailer
+    - Built and maintained the active elements for various client web-sites
+
 
 
 Education
@@ -61,11 +112,6 @@ Education
     *B.S. in Submodules*, May 2012
 
 
-Skills
-------
+*   **University of Cape Town** (Cape Town)
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+    *BSc (Elec Eng) with Honours*, 1992 - 1995
