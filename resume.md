@@ -11,7 +11,7 @@ Key Skills
     - Team leadership, time management, project planning, work scheduling
 
 *   **Languages**
-    - C#, Java, HTML, CSS, Javascript, Python
+    - Python, Javascript, C#, Java, HTML, CSS
 
 *   **Design**
     - System architecture, web services, object oriented design, database
@@ -38,9 +38,9 @@ Work Experience
     - Developed ASP.NET web interface to the company's flagship product which
       tests mobile phone services. This interface provides an administration
       interface to the distributed testing system and is the user's primary
-      means of interacting with it. In order to provide a useful and useable
-      interface, I have also had to debug, fix and add new features to the Java
-      and C++ components of the software
+      means of interacting with it.
+    - Debugged, fixed and added new features to the Java and C++ components of
+      the software in order to provide a useful and useable interface.
 
 *   **Developer** (London)
 
