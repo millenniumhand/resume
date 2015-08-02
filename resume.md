@@ -8,37 +8,36 @@ Glenn Jones
 Key Skills
 ----------
 *   **Process**
-    - Team leadership, time management, project planning, work scheduling
+    - Team leadership, time management, project planning, work scheduling, mentoring new hires
 
 *   **Languages**
-    - Python, Javascript, C#, Java, HTML, CSS
+    - Python, Javascript, C#, Java, HTML, CSS, Bash
 
 *   **Design**
     - System architecture, web services, object oriented design, database
-      design, object-relational mapping, test-driven development
+      design, object-relational mapping, test-driven development, devops, cloud architecture
 
 Work Experience
 ---------------
 
 *   **Developer** (London)
 
-    *PythonAnywhere*, Aug 2004 - Present
+    *PythonAnywhere*, Nov 2007 - Present
 
-    - 
+    - Architecture, design and development of a cloud platform that provides an
+      online IDE for developing and deploying Python software
+    - Provided support and debugging assistance to users of the service
+    - Developed reporting tools for business decision support
+    - Development and design of a spreadsheet that is scriptable in Python
 
 *   **Developer** (Elstead)
 
-    *Argogroup*, Aug 2004 - Present
+    *Argogroup*, Aug 2004 - Oct 2007
 
     - Developed ASP.NET application in C# for testing the capabilities of mobile
-      phones. The application presents phones with various types of content and
-      records how they respond. The resulting database of phone capabilities can
-      be queried for reporting and analysis and it is also used in the company's
-      phone emulation engine
+      phones.
     - Developed ASP.NET web interface to the company's flagship product which
-      tests mobile phone services. This interface provides an administration
-      interface to the distributed testing system and is the user's primary
-      means of interacting with it.
+      tests mobile phone services.
     - Debugged, fixed and added new features to the Java and C++ components of
       the software in order to provide a useful and useable interface.
 
